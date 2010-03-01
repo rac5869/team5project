@@ -1,0 +1,28 @@
+Testsuite: com.genealogytree.PersonIntegrationTests
+Tests run: 7, Failures: 0, Errors: 0, Time elapsed: 5.247 sec
+------------- Standard Output ---------------
+--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testEvilSave--
+--Output from testEvilSaveCorrected--
+--Output from testRelationships--
+--Output from testTreeMembers--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testEvilSave--
+--Output from testEvilSaveCorrected--
+--Output from testRelationships--
+--Output from testTreeMembers--
+------------- ---------------- ---------------
+
+Testcase: testFirstSaveEver took 3.112 sec
+Testcase: testSaveAndUpdate took 0.345 sec
+Testcase: testSaveThenDelete took 0.686 sec
+Testcase: testEvilSave took 0.463 sec
+Testcase: testEvilSaveCorrected took 0.011 sec
+Testcase: testRelationships took 0.041 sec
+Testcase: testTreeMembers took 0.039 sec
