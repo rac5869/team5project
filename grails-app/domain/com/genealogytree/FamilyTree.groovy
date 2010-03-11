@@ -8,7 +8,7 @@ class FamilyTree {
     static hasMany = [ member : Person ]
 
     static constraints = {
-        fId(unique:true)
+        fId(unique:true, blank:false, nullable:false)
         fName(blank:true, maxSize:30)
         fDesc(blank:true, maxSize:30)
     }
