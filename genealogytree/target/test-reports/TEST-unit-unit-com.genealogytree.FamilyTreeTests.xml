@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="new-host-2.home" name="com.genealogytree.FamilyTreeTests" tests="1" time="0.0070" timestamp="2010-03-22T15:35:44">
+  <properties />
+  <testcase classname="com.genealogytree.FamilyTreeTests" name="testSomething" time="0.0070" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
