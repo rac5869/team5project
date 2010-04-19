@@ -16,6 +16,7 @@ online SSDIs. </h3>
       <g:submitButton name="search" value="Search"/>
     </g:form>
   </formset>
+<p><h3><g:link action='create'>Click</g:link> to create a new entry for the database.</h3></p>
 </body>
 </html>
 
