@@ -8,8 +8,8 @@
         <title><g:message code="default.list.label" args="[entityName]" /></title>
 
 
-<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAA03uIrV0kGFdBwtPYkG69yhT2yXp_ZAY8_ufC3CFXhHIE1NvwkxS7t_bShEj-stE91f-qn9YF_W2hQg" type="text/javascript"></script>
-
+<!-- <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAA03uIrV0kGFdBwtPYkG69yhT2yXp_ZAY8_ufC3CFXhHIE1NvwkxS7t_bShEj-stE91f-qn9YF_W2hQg" type="text/javascript"></script> -->
+<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAy1X0TtvReu0zD-J251GW3hR7AD6nXwFB7qSfw9KWhkRTeb_VchTC1URdZxoaaWNoK6N4Ecr5yiIpsQ" type="text/javascript"></script>
 <script type="text/javascript" >
 
 
