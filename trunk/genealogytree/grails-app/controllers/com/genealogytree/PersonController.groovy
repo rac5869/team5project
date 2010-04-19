@@ -4,7 +4,7 @@ class PersonController {
 
     def PersonService
     def scaffold = true
-
+    
     def search = {
 
     }
@@ -31,7 +31,4 @@ class PersonController {
 	def resulta = personService.serviceMethodA(params.last) 
     }
 
-    def personError = {
-	render(view:'/perror')
-    }
 }
